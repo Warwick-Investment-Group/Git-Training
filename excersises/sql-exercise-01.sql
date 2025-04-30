@@ -1,6 +1,6 @@
 /*
 * File: 01-introduction.sql
-* Author: [Your Name]
+* Author: Dakota Vaught
 * Created: [Current Date]
 * 
 * Description: Introduction exercise for Git training
