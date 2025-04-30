@@ -1,0 +1,29 @@
+# Local configuration files
+*.env
+*_local.sql
+config_*.sql
+
+# Query results
+*.csv
+*.xlsx
+*.json
+results/
+output/
+
+# Database backups
+*.backup
+*.bak
+*.dump
+
+# Temporary query files
+*_temp.sql
+tmp_*.sql
+
+# SQL IDE files
+.idea/dataSources/
+.idea/sqlDataSources.xml
+*.sqldiff
+
+# Database connection credentials
+database.ini
+credentials.json
