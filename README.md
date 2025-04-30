@@ -43,7 +43,3 @@ Through hands-on exercises and practical examples, you'll learn to:
 ## Maintained By
 
 This repository is maintained by the Warwick Investment Group Data Science team. For questions or assistance, please contact Chris Buie, clb@warwickinvestmentgroup.com.
-
----
-
-*Clean code. Clear history. Confident decisions.*
