@@ -1,7 +1,12 @@
 /*
 * File: 01-introduction.sql
+<<<<<<< HEAD
 * Author: [Your Name]
 * Created: Chris Buie on 2024-01-01
+=======
+* Author: Seth
+* Created: [Current Date]
+>>>>>>> refs/remotes/origin/main
 * 
 * Description: Introduction exercise for Git training
 * Domain: Oil and Gas
