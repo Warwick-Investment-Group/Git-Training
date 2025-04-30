@@ -1,7 +1,12 @@
 /*
 * File: 01-introduction.sql
+<<<<<<< HEAD
 * Author: Dakota Vaught
 * Created: [Current Date]
+=======
+* Author: [Your Name]
+* Created: Chris Buie
+>>>>>>> 1053bec98b4a3c09e3ff6889912636c35aefc9e2
 * 
 * Description: Introduction exercise for Git training
 * Domain: Oil and Gas
