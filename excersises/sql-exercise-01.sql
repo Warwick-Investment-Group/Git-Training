@@ -1,7 +1,7 @@
 /*
 * File: 01-introduction.sql
 * Author: [Your Name]
-* Created: Chris Buie
+* Created: Chris Buie on 2024-01-01
 * 
 * Description: Introduction exercise for Git training
 * Domain: Oil and Gas
